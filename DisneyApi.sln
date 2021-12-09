@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyApi.Presentation", "DisneyApi.Presentation\DisneyApi.Presentation.csproj", "{9EC31312-618F-4FEC-AFCA-9C7E3ECE8F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyApi.Domain", "DisneyApi.Domain\DisneyApi.Domain.csproj", "{E54C6305-8A69-4AD9-B06B-D238C5FD5EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyApi.Application", "DisneyApi.Application\DisneyApi.Application.csproj", "{542E23C1-AD04-4BFF-AE00-38371DCB2A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyApi.AccessData", "DisneyApi.AccessData\DisneyApi.AccessData.csproj", "{02430737-C8E5-4604-8659-08F0905324C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC31312-618F-4FEC-AFCA-9C7E3ECE8F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC31312-618F-4FEC-AFCA-9C7E3ECE8F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC31312-618F-4FEC-AFCA-9C7E3ECE8F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC31312-618F-4FEC-AFCA-9C7E3ECE8F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54C6305-8A69-4AD9-B06B-D238C5FD5EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54C6305-8A69-4AD9-B06B-D238C5FD5EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54C6305-8A69-4AD9-B06B-D238C5FD5EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54C6305-8A69-4AD9-B06B-D238C5FD5EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542E23C1-AD04-4BFF-AE00-38371DCB2A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542E23C1-AD04-4BFF-AE00-38371DCB2A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542E23C1-AD04-4BFF-AE00-38371DCB2A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542E23C1-AD04-4BFF-AE00-38371DCB2A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02430737-C8E5-4604-8659-08F0905324C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02430737-C8E5-4604-8659-08F0905324C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02430737-C8E5-4604-8659-08F0905324C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02430737-C8E5-4604-8659-08F0905324C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC8A266-3076-40DC-BF44-EDBBB4F7BBDF}
+	EndGlobalSection
+EndGlobal
