@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DisneyApi.Domain.Dtos
+﻿namespace DisneyApi.Domain.Dtos
 {
-    class CharacterDto
+    public class CharacterDto
     {
+        public string Image { get; set; }
+        public string Name { get; set; }
     }
 }
